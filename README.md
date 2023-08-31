@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 --->
 <h1 align="center">Hi 👋, I'm Collins DABERECHUKWU</h1>
 <h3 align="center">A passionate Fullstack Java developer from Nigeria</h3>
-<img align="right" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" width="400px" alt="coding">
+<img align="center" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" width="700px" alt="coding">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=collinsdaberechukwu" alt="collinsdaberechukwu" /></a> </p>
 
